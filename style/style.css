@@ -1,0 +1,12 @@
+img {
+    height: 10em;
+    width: auto;
+}
+
+h1 {
+    background-color: lightblue;
+}
+
+.blurActive {
+    filter: blur(5px);
+}
